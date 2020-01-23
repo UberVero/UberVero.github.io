@@ -1,4 +1,4 @@
 UberVero.github.io
 ==================
 
-My github-hosted website
+Used to be my github-hosted website - in the process to movi it to ZEIT Now
